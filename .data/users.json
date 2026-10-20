@@ -1,0 +1,13 @@
+[
+  {
+    "id": "user-wajhat-primary",
+    "email": "wajhatbhai30@gmail.com",
+    "name": "Wajhat",
+    "passwordSalt": "435df3af79c6fe36a45736afbaace8e3",
+    "passwordHash": "66ff0265d79b9739ee87093f8506b6f00762e628586e1394efd02835d0ec65cbc5a9bbca34fc99ea3fac5dfe4aa5e76bcc2b3c9f38c958f2f719b45f1e70318a",
+    "emailConfirmed": true,
+    "createdAt": "2026-09-20T10:07:15.969Z",
+    "role": "Senior Fact-Checking Investigator",
+    "lastLogin": "2026-10-20T10:07:15.970Z"
+  }
+]

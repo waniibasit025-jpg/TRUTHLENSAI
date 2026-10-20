@@ -1,0 +1,8 @@
+{
+  "name": "TruthLens AI",
+  "description": "AI-powered news, headline, and social media credibility analyzer with claim detection, emotional manipulation scoring, and fact-checking insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
